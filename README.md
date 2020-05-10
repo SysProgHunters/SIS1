@@ -7,4 +7,4 @@ Task Manager with limited functionality. It can display:
 - memory used from RAM
 - process name in system
 
-But it shows only top 10 gluttonous processes sorted by CPU usage.
+It shows only top 10 gluttonous processes sorted by CPU usage.
